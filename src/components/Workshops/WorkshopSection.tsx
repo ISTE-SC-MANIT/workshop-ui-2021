@@ -5,7 +5,7 @@ import Workshops from './Workshops';
 const title1 = 'Android App Development';
 const image1 = 'images/android.jpeg';
 const tag1 = 'Workshop';
-const date1 = 'October 16-17, 2022';
+const date1 = 'September 09-10, 2023';
 const about1 =
   "Over the past few years, the Tech world has revolutionized. Among various spheres, Android Application Development is evolving expeditiously and has a popularity that's increasing at a rate of knots. In this competitive world, hands-on learning opportunities are a dire need. And to quench the thirst for knowledge, here comes the Android App Development using Android Studio workshop, providing 100% hands-on & practical sessions under the guidance of a mentor having years of expertise.";
 const description1 =
@@ -20,7 +20,7 @@ const point1 = [
 const title2 = 'Machine Learning';
 const image2 = 'images/ml.jpg';
 const tag2 = 'Workshop';
-const date2 = 'October 19-20, 2022';
+const date2 = 'September 16-17, 2023';
 const about2 =
   'Leaping towards an advanced future, ISTE SC MANIT brings to you the workshop on Machine learning. Beginning with the fundamentals of Python by performing various loops, functions, and attributes of Python this course condenses to a multitude of knowledge and provides you with a concise understanding of machine learning theory and application. You will be able to code your image-to-text conversion program as well as your chatbot by the conclusion of the workshop. So, all you young enquiring brains out there, sign up for this premium workshop and harness the power of data in novel ways by developing smart machine learning algorithms.';
 const description2 =
